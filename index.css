@@ -10,7 +10,7 @@
 }
 
 body {
-    background: url(fondo.jpg);
+    background-image: url(fondo.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -25,7 +25,7 @@ body {
         justify-content: center;
         flex-direction: column;
         margin-bottom: 5.5vh;
-        background: url(sep09.jpg);
+        background-image: url(sep09.jpg);
         background-size: cover;
         opacity: 0.9;
 
